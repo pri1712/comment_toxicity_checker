@@ -1,8 +1,1 @@
-# Troll Tracker
-## Features
-
-- Accurately identifies toxic comments with a precision metric of 87.84%.
-- Utilizes LSTM layers for enhanced understanding of comment context.
-- Provides an intuitive web interface for users to interact with the model.
-- Uses the Gradio open source application to provide the interface to interact with the model.
-  
+The Comment Toxicity Detector uses LSTM layers to accurately classify comments as toxic or non-toxic. It achieves high precision, meaning it is effective at identifying toxic comments. The model is deployed via Gradio, which provides an easy-to-use web interface for real-time testing and usage.
